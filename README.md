@@ -58,4 +58,4 @@ While using S3 would be a more straightforward and optimal solution for handling
 
 ---
 
-Feel free to explore and provide feedback. Happy coding! 🎉
+All rights reserved ®PwGawżyński
